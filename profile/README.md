@@ -1,5 +1,3 @@
-# Thumbpin
-
 **Thumbpin** is a 360° digital marketing agency that helps brands build, grow, and scale through creative storytelling, strategic marketing, and digital innovation. We partner with businesses to create impactful campaigns, memorable brand identities, and high-performing digital experiences.
 
 Beyond being an agency, Thumbpin serves as a content creation platform that enables businesses, creators, and marketing teams to produce, manage, and scale digital content more efficiently.
